@@ -28,7 +28,7 @@ There should be no problems or issuses.
 ## Authors
 
 Klingri 
-ex. [@Klingri](https://github.com/Klingri)
+[@Klingri](https://github.com/Klingri)
 
 ## Version History
 
